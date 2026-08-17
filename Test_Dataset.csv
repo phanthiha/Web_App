@@ -1,0 +1,11 @@
+Branch,Customer_type,Gender,Product_line,Unit_price,Quantity
+A,Member,Female,Health and beauty,74.69,7
+B,Normal,Female,Electronic accessories,15.28,5
+C,Normal,Male,Home and lifestyle,46.33,7
+A,Member,Male,Health and beauty,58.22,8
+B,Member,Female,Sports and travel,86.31,7
+C,Normal,Female,Food and beverages,42.15,3
+A,Normal,Male,Fashion accessories,95.00,2
+B,Member,Male,Electronic accessories,25.50,10
+C,Member,Female,Home and lifestyle,68.40,4
+A,Normal,Female,Sports and travel,33.20,6
